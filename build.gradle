@@ -2,7 +2,6 @@ plugins {
     id 'java'
     id 'application'
     id 'info.solidsoft.pitest' version '1.6.0'
-    id("net.ltgt.errorprone") version "3.0.1"
 }
 
 group 'com.aor.journey'
@@ -27,9 +26,6 @@ dependencies {
     testImplementation 'net.jqwik:jqwik:1.5.1'
 
     implementation group: 'com.googlecode.lanterna', name: 'lanterna', version: '3.1.1'
-
-    errorprone ("com.google.errorprone:error_prone_core:2.3.3")
-    errorproneJavac("com.google.errorprone:javac:9+181-r4173-1")
 }
 
 test {
