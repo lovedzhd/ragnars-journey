@@ -1,4 +1,4 @@
-## LPOO_\<L.EIC03\>\<G01\> - \<Ragnar's journey\>
+# FEUP-LDTS - Ragnar's journey
 
 > The ideia is to have a hero that spawns on a lobby, where he can move to different dungeons. Inside each dungeon there are three rooms and in order to advance to the next one, he has to kill all the monsters and, if he wants, collect  all the coins. The warrior can buy more lives on the shop with a maximum number of lives.<br>
 > The project was developed by:<br>
@@ -6,12 +6,12 @@
 >- João Padrão\: 202108766<br>
 >- Pedro Angélico\: 202108866<br>
 
-### Main idea
+## Main idea
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/89313201/208412250-c03cf932-fcaf-42fa-a9fa-a7dd5707f2bc.gif)
 
-### UML
+## UML
 ![uml](https://user-images.githubusercontent.com/72285606/208432053-81bf103e-bb53-4558-bcd6-a6528b4436a3.png)
-### IMPLEMENTED FEATURES
+## IMPLEMENTED FEATURES
 >- **Lake** - Inside the dungeons there are lakes. After leaving the water his colour will change and he can kill a fire monster when he touches it<br>
    ![2](https://user-images.githubusercontent.com/113979321/207180742-a567271b-b5b8-4f43-865c-7a1833d9908d.png)
    ![3](https://user-images.githubusercontent.com/113979321/207180955-cf588ed5-c720-4756-bb41-ef854a56b115.png)
